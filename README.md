@@ -3,3 +3,8 @@
 <br>
 VERSION DEMO:
 https://demo-szablon.hosting7.eu
+
+
+Requirements:
+WordPress 6.9.x or later
+PHP 8.4
