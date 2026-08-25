@@ -5,6 +5,8 @@
 VERSION DEMO:
 https://demo-szablon.hosting7.eu
 
+DOWNLOAD: https://wordpress.org/themes/simple-portfolio7z/
+
 
 Requirements:
 WordPress 6.9.x or later
